@@ -4,7 +4,7 @@ A classic, interactive Tic-Tac-Toe game built from the ground up with vanilla Ja
 # Tic Tac Toe Mini Game
 
 ## 🚀 Live Project
-[**LIVE Demo**](https://tic-tac-taa-mini-game.vercel.app/)
+###[**LIVE Demo**](https://tic-tac-taa-mini-game.vercel.app/)
 
 ## 📂 GitHub Repository
 [GitHub Repo](https://github.com/ashwinnikose/tic-tac-taa-miniGame)
