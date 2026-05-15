@@ -2,7 +2,7 @@
 
 A classic, interactive Tic-Tac-Toe game built from the ground up with vanilla JavaScript, HTML5, and CSS3. This project demonstrates core front-end development principles like DOM manipulation, event handling, and game state management.
 
-### [**Live Demo**](https://rohanthawait.github.io/tic-tac-toe/)
+### [**Live Demo**](https://ashwinnikose.github.io/tic-tac-toe/)
 
 
 <p align="center">
