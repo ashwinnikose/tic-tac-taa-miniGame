@@ -1,14 +1,13 @@
 # Tic-Tac-Toe: A Classic Game Built with Modern JavaScript
 
 A classic, interactive Tic-Tac-Toe game built from the ground up with vanilla JavaScript, HTML5, and CSS3. This project demonstrates core front-end development principles like DOM manipulation, event handling, and game state management.
+# Tic Tac Toe Mini Game
 
-### [**Live Demo**](https://ashwinnikose.github.io/tic-tac-toe/)
+## 🚀 Live Project
+[Click Here to Play](https://tic-tac-taa-mini-game.vercel.app/)
 
-
-<p align="center">
-  <img src="tic-tac-taa-miniGame.gif" alt="tic-tac-taa-miniGame Gameplay Demo" width="600">
-</p>
-
+## 📂 GitHub Repository
+[GitHub Repo](https://github.com/ashwinnikose/tic-tac-taa-miniGame)
 -----
 ## Project Overview
 
