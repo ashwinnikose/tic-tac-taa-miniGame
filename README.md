@@ -1,7 +1,7 @@
-# Tic-Tac-Taa-miniGame: A Classic Game Built with Modern JavaScript
+# tic-tac-taa-miniGame: A Classic Game Built with Modern JavaScript
 
-A classic, interactive Tic-Tac-Toe game built from the ground up with vanilla JavaScript, HTML5, and CSS3. This project demonstrates core front-end development principles like DOM manipulation, event handling, and game state management.
-# Tic Tac Toe Mini Game
+A classic, interactive tic-tac-taa-miniGame game built from the ground up with vanilla JavaScript, HTML5, and CSS3. This project demonstrates core front-end development principles like DOM manipulation, event handling, and game state management.
+# tic-tac-taa-miniGame
 
 ## 🚀 Live Project
 [***LIVE Demo***](https://tic-tac-taa-mini-game.vercel.app/)
