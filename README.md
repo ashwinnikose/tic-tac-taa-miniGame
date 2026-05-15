@@ -6,7 +6,7 @@ A classic, interactive Tic-Tac-Toe game built from the ground up with vanilla Ja
 
 
 <p align="center">
-  <img src="tic-tac-toe.gif" alt="Tic-Tac-Toe Gameplay Demo" width="600">
+  <img src="tic-tac-taa-miniGame.gif" alt="tic-tac-taa-miniGame Gameplay Demo" width="600">
 </p>
 
 -----
